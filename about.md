@@ -4,44 +4,66 @@ title: "About Me"
 
 ## Background
 
-Write a brief introduction about yourself here. Include:
+Hi, I’m Ryan Morrow, a Statistics student at Brigham Young University with an emphasis in Data Science and Analytics. I’m passionate about using data to understand patterns, solve real-world problems, and support better decision-making.
 
-- Your academic background
-- Your interest in data science
-- Your career goals
-- Any relevant experience or projects
+My academic background has focused on statistical modeling, programming, and data visualization. Through coursework and projects, I’ve worked with real datasets to perform analysis, build dashboards, and communicate insights clearly.
+
+I’m especially interested in careers that combine technical analytics with business strategy — such as data analytics, business intelligence, or data science roles — where I can help organizations make data-driven decisions.
+
+---
 
 ## Education
 
-- **[Your Degree]** - [University Name], [Year]
-- **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
+- **Bachelor of Science in Statistics** — Brigham Young University, Expected 2026
+- **Bachelor of Arts in Spanish** — Brigham Young University, Expected 2026  
 
-## Skills & Interests
+- **Relevant Coursework**: Statistical Modeling, Data Visualization, Linear Algebra, Data Structures, Intro to Bioinformatics
+
+---
 
 ### Technical Skills
-- **Programming**: Python
-- **Data Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn
-- **Tools**: Jupyter Notebooks, Git/GitHub
+
+- **Programming**: R, Python, SQL, C++  
+- **Data Analysis**: Data cleaning, statistical modeling, regression analysis  
+- **Visualization**: Tableau, ggplot2, dashboard design, Power BI 
+- **Tools**: Git/GitHub, Quarto, Markdown, Excel  
 
 ### Areas of Interest
-- [Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]
-- [Other areas you're curious about]
+
+- Business analytics and decision-making  
+- Sports analytics  
+- Operational and performance data  
+- Using data to improve systems and processes  
+
+---
 
 ## Goals
 
-Describe what you hope to achieve through your data science journey:
+Through my data science journey, I hope to continue building both technical and professional skills and be happy.
 
-- Short-term learning objectives
-- Long-term career aspirations
-- Types of problems you want to solve
+**Short-term goals:**
+
+- Strengthen my programming and visualization skills  
+- Build portfolio-ready analytics projects  
+- Gain internship experience in data analytics  
+
+**Long-term aspirations:**
+
+- Work in a data analytics or business intelligence role  
+- Help organizations make strategic, data-driven decisions  
+- Continue developing advanced statistical and machine learning skills  
+
+I’m particularly interested in solving problems that involve complex data, real-world impact, and clear communication of insights.
+
+---
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: Rylion9@gmail.com 
+- **LinkedIn**: www.linkedin.com/in/1ryanm1
+
+
+
 
 ---
 
