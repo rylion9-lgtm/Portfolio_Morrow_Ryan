@@ -67,7 +67,7 @@ I enjoy setting long-term goals and working consistently to achieve them.
 
 ## Image
 
-![Ryan Morrow headshot](ryan-headshot.jpg)
+![Ryan Morrow headshot](ryan-headshot.jpg.jpg)
 
 ## Contact
 
