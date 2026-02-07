@@ -57,13 +57,22 @@ I’m particularly interested in solving problems that involve complex data, rea
 
 ---
 
+## Get to Know Me
+
+Outside of school, I enjoy marathon running, intramural sports, hiking, and following BYU athletics.
+
+I enjoy setting long-term goals and working consistently to achieve them.
+
+---
+
+## Image
+
+![Ryan Morrow headshot](ryan-headshot.jpg)
+
 ## Contact
 
 - **Email**: Rylion9@gmail.com 
 - **LinkedIn**: www.linkedin.com/in/1ryanm1
-
-
-
 
 ---
 
