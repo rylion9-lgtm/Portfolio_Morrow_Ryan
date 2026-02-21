@@ -5,6 +5,7 @@ project:
 website:
   title: "Ryan Morrow - Data Science Portfolio"
   description: "A showcase of my data science projects and learning journey"
+  site-url: "https://rylion9-lgtm.github.io/Portfolio_Morrow_Ryan/"
   
   navbar:
     background: primary
